@@ -1,7 +1,7 @@
 # GPT4-Vision-Toolkit: A Powerful Image Analysis Tool
 
 ## Demo
-[![https://twitter.com/xundecidability/status/1763219017160867840](https://twitter.com/xundecidability/status/1763219017160867840)]
+[https://twitter.com/xundecidability/status/1763219017160867840](https://twitter.com/xundecidability/status/1763219017160867840)
 GPT4-Vision-Toolkit is a versatile and user-friendly command-line tool that harnesses the power of OpenAI's GPT-4 vision model to analyze and describe images. With its simple interface and diverse output options, this tool makes it easy for users to extract valuable insights from visual data.
 
 ## Key Features
